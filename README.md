@@ -6,6 +6,8 @@ Let's connect:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/weyler-maldonado/)
 
+⭐ ### My repo highlight⭐ : https://github.com/weylermaldonado/hermetricsjs
+
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=80a1c1)
