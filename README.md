@@ -1,6 +1,9 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 🇲🇽 I'm Software Engineer, creative coder who specializes in back-end development. Focused on identifying needs and designing solutions that can build products with high reliability and quality that people love to use.
+
+
+
 [![wakatime](https://wakatime.com/badge/user/018b8c8d-d633-4ea0-8275-9eae9aab8845.svg)](https://wakatime.com/@018b8c8d-d633-4ea0-8275-9eae9aab8845)
 
 Let's connect:
